@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور الليل يا قدر مكتوب
+> في صمت الروح أبحث عن دروب
+> الشوق نار في قلبي يذوب
+> خذني إليك يا نبض القلوب
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
