@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - W3dek Howa El Maktoub
+
+This log tracks the cryptographic history and versioning for the song **W3dek Howa El Maktoub** (w3dek-howa-el-maktoub).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T18:55:51.421256 | `v1` | `f4cb21ede229735b471e9ae6958cd97d9bd5cc0f3d88d42bf16c8590913277c0` | `019cdef25cf4553ab549376085812f3c8ed8cc100ba59473280056ddfb3634b8` | `2026-05-08_w3dek-howa-el-maktoub-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
